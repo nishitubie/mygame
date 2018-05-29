@@ -12,3 +12,4 @@
 [《2048》游戏Java版本+源码（二）](http://www.wolfbe.com/detail/201609/369.html)
 
 
+# mygame
